@@ -1,0 +1,13 @@
+{
+    "url": "http://localhost:4567",
+    "secret": "zico",
+    "database": "mongo",
+    "port": 4567,
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "username": "nodebbb",
+        "password": "zico",
+        "database": "nodebb"
+    }
+}
