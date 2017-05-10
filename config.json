@@ -1,5 +1,5 @@
 {
-    "url": "http://localhost:4567",
+    "url": "https://cryptic-refuge-33241.herokuapp.com/",
     "secret": "zico",
     "database": "mongo",
     "port": 4567,
